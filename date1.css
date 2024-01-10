@@ -1,0 +1,29 @@
+.body {
+    height: 100vh;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.img {
+    height: 500px;
+    display: flex;
+}
+
+h1, p {
+    text-align: center;
+}
+
+.btn-container {
+    display: flex;
+    gap: 10px; /* Adjust the gap as needed */
+    justify-content: center;
+}
+.bg{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+}
